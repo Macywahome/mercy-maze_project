@@ -1,0 +1,46 @@
+Maze Game MVP with SDL2:
+
+**Overview:**
+
+This Minimum Viable Product (MVP) outlines the key features for a 3D maze game created using the SDL2 graphics library.
+
+**Features:**
+
+1. **Walls:**
+   - Create a 2D array t5o represent the maze.
+   - Use SDL2 to draw walls using rectangles or lines.
+
+2. **Orientation:**
+   - Control player movement and rotation with arrow keys.
+   - Utilize SDL_Event for handling user input.
+
+3. **Move:**
+   - Implement basic player movement: forward, backward, left, and right.
+
+4. **Ouch:**
+   - Add collision detection to prevent player movement through walls.
+
+5. **Parser:**
+   - Develop a simple parser to read maze data from a text file.
+   - Store maze data in a 2D array.
+
+6. **Draw the Map:**
+   - Visualize the maze using different colors for walls and ground/ceiling.
+
+7. **Textures:**
+   - Integrate basic textures to walls using SDL2's texture rendering functions.
+
+**User Story:**
+
+End users desire an engaging maze game with SDL2 for entertainment and challenge. Key features include:
+
+- A main menu for starting a new game, loading a saved game, or quitting.
+- New game options, allowing selection of maze difficulty, size, and obstacles.
+- Smooth character control using arrow keys, with a responsive timer and scoring system.
+- Collection of rewards (coins) and encounters with obstacles affecting gameplay.
+- End-of-maze message displaying final score and completion time, with an option to save the game.
+- In-game sound effects for actions like collecting coins and hitting obstacles.
+- Background music enhancing the gaming experience.
+- Visually appealing graphics and animations to maintain user engagement.
+
+This comprehensive MVP ensures a satisfying user experience and serves as the foundation for further enhancements.
