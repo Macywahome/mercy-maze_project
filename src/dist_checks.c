@@ -1,9 +1,3 @@
-/*
- * File: dist_checks.c
- * Auth: Elysée NIYIBIZI
- *
- */
-
 #include "../maze.h"
 
 /**

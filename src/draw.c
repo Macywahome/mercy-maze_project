@@ -1,9 +1,3 @@
-/*
- * File: draw.c
- * Auth: Elysée NIYIBIZI
- *
- */
-
 #include "../maze.h"
 
 /**

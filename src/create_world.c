@@ -1,9 +1,3 @@
-/*
- * File: create_world.c
- * Auth: Elysée NIYIBIZI
- *
- */
-
 #include "../maze.h"
 
 level *build_world_from_args(int num_of_lvls, char *level_files[])
