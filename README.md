@@ -1,5 +1,4 @@
 # mercy-maze_project
-# The Maze Project 👨‍🎓 
 
 (https://github.com/Macywahome/mercy-maze_project)
 
